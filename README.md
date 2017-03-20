@@ -1,4 +1,4 @@
- # NLP-with-Deep-Learning 
+ # NLP with Deep Learning [CS 224n]
  * Home page-  http://web.stanford.edu/class/cs224n/index.html
  * Syllabus-   http://web.stanford.edu/class/cs224n/syllabus.html
  
