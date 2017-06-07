@@ -25,4 +25,10 @@
  * Week 7 - Introduction to TensorFlow
     * Resources -
       - [x] [TensorFlow Tutorial](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-tensorflow.pdf)
+      
+      
+      
+## Another course -- Stanford -- http://web.stanford.edu/class/cs20si/syllabus.html
+
+CS 20SI: Tensorflow for Deep Learning Research
     
